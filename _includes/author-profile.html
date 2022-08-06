@@ -58,6 +58,15 @@
       {% if author.instagram %}
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
       {% endif %}
+      {% if author.patreon %}
+        <li><a href="https://patreon.com/{{ author.patreon }}"><i class="fab fa-patreon" aria-hidden="true"></i> Patreon</a></li>
+      {% endif %}
+      {% if author.telegram %}
+        <li><a href="https://t.me/{{ author.telegram }}"><i class="fab fa-telegram" aria-hidden="true"></i> Telegram</a></li>
+      {% endif %}
+      {% if author.reddit %}
+        <li><a href="https://www.reddit.com/user/{{ author.reddit }}"><i class="fab fa-reddit" aria-hidden="true"></i> Reddit</a></li>
+      {% endif %}
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
       {% endif %}
@@ -117,7 +126,7 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
     </ul>
   </div>
 </div>
