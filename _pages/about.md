@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello, world! This is yfluo's homepage. To find more, visit my Chinese [blog](https://yfluo.fish).
+Hello, world! This is yfluo's homepage. To find more, visit my [Chinese blog](https://yfluo.fish).
