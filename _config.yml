@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "yfluo's page"
+title                    : "Yfluo's Homepage"
 title_separator          : "-"
 name                     : &name "Yufei Luo"
 description              : &description "Powered by yfluo."
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "yfluo914@gmail.com"
+  email            : "i@yfluo.me"
   researchgate     :
   uri              :
   bitbucket        :
