@@ -2,11 +2,8 @@
 
 <div class="page__footer-follow">
   <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
     {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="http://github.com/{{ site.author.github }}/{{ site.author.github }}.github.io"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub Repository</a></li>
     {% endif %}
   </ul>
 </div>
