@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-Contact me at i@yfluo.me.
+Contact me at email i@yfluo.me.
