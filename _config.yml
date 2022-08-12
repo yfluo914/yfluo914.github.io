@@ -83,7 +83,7 @@ author:
   name             : "Yufei Luo"
   avatar           : "https://3o.hk/images/2022/08/07/Profile.jpg"
   bio              : "SJTU Automation"
-  location         : "Shanghai, China"
+  location         :
   employer         :
   pubmed           :
   googlescholar    :
@@ -99,7 +99,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : "yfluoyf"
+  instagram        :
   impactstory      :
   lastfm           :
   linkedin         :
