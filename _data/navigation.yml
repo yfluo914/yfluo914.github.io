@@ -2,6 +2,4 @@
 main:
   - title: "Blog"
     url: https://blog.yfluo.me
-
-  - title: "Contact"
-    url: /contact/
+  
