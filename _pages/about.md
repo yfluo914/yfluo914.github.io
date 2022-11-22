@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, world! This is yfluo's homepage. To find more, visit my [Chinese blog](https://blog.yfluo.me).
+Hello, world! This is yfluo's homepage.
 
 # Contact me
 Contact me at email i@yfluo.me.
