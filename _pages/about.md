@@ -14,9 +14,9 @@ Hello, world! This is Yfluo's Homepage.
 Contact me at email i@yfluo.me.
 
 # My Email
-[i@yfluo.fish](i@yfluo.fish) powered by [Mailru](https://biz.mail.ru/). (2022.04.22-2022.08.05)
+i@yfluo.fish powered by [Mailru](https://biz.mail.ru/). (2022.04.22-2022.08.05)
 
-[i@yfluo.me](i@yfluo.me) powered by [iCloud](https://www.icloud.com/mail/). (2022.08.05-now)
+i@yfluo.me powered by [iCloud](https://www.icloud.com/mail/). (2022.08.05-now)
 
 # My Porject
 ## My Blog
@@ -33,7 +33,6 @@ Contact me at email i@yfluo.me.
 
 ## My Rule
 [ClashRule](https://github.com/yfluo914/ClashRule) for [Clash Core](https://github.com/Dreamacro/clash) . (2023.01.22-now)
-
 
 # My Bot
 ## Chat Bot
