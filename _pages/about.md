@@ -36,7 +36,7 @@ i@yfluo.me powered by [iCloud](https://www.icloud.com/mail/). (2022.08.05-now)
 
 # My Bot
 ## Chat Bot
-[FlyingFish's Bot](https://t.me/yfluo_bot) powered by [](https://t.me/LivegramBot). (2022.06.21-now)
+[FlyingFish's Bot](https://t.me/yfluo_bot) powered by [LivegramBot](https://t.me/LivegramBot). (2022.06.21-now)
 
 ## ChatGPT Bot
 [ChatGPTBot](https://t.me/yfluo_chat_bot) powered by [ChatGPT](https://chat.openai.com/chat). (2022.12.07-2022.12.31)
