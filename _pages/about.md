@@ -29,7 +29,7 @@ i@yfluo.me powered by [iCloud](https://www.icloud.com/mail/). (2022.08.05-now)
 [https://cloud.yfluo.me](https://cloud.yfluo.me) powered by [Alist](https://github.com/alist-org/alist) and [Aria2](https://github.com/aria2/aria2). (2023.01.31-now)
 
 ## My Proxy
-[My Proxy](https://sub.yfluo.tk)(clash core subscription link) powered by [Trojan](https://github.com/trojan-gfw/trojan). (2022.11.24-now)
+[My Proxy](https://sub.yfluo.tk) (clash core subscription link) powered by [Trojan](https://github.com/trojan-gfw/trojan). (2022.11.24-now)
 
 ## My Rule
 [ClashRule](https://github.com/yfluo914/ClashRule) for [Clash Core](https://github.com/Dreamacro/clash) . (2023.01.22-now)
