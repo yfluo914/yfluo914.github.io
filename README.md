@@ -1,5 +1,3 @@
-# Yfluo's Homepage
+# Yfluo's HomePage
 
-This is the GitHub repository for [Yfluo's homepage](https://yfluo.me).
-
-© 2022 Yufei Luo. All Rights Reserved.
+Yfluo's homepage, use GitHub pages and academicpages.
