@@ -22,7 +22,7 @@ i@yfluo.me powered by [iCloud](https://www.icloud.com/mail/). (2022.08.05-now)
 ## My Blog
 [https://yfluo.fish](https://yfluo.fish) powered by [WordPress](https://wordpress.org). (2022.04.22-2022.08.05)
 
-## My HomePage
+## My Homepage
 [https://yfluo.me](https://yfluo.me) powered by [GitHub Pages](https://pages.github.com) and [Academicpages](https://github.com/academicpages/academicpages.github.io). (2022.08.05-now)
 
 ## My Cloud
