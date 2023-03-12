@@ -20,7 +20,7 @@ i@yfluo.me powered by [iCloud](https://www.icloud.com/mail/). (2022.08.05-now)
 
 # My Porject
 ## My Blog
-[https://yfluo.fish](https://yfluo.fish) powered by [WordPress](https://wordpress.org). (2022.04.22-2022.08.05)
+[https://yfluo.fish](https://yfluo.fish) powered by [WordPress](https://github.com/WordPress/WordPress). (2022.04.22-2022.08.05)
 
 ## My Homepage
 [https://yfluo.me](https://yfluo.me) powered by [GitHub Pages](https://pages.github.com) and [Academicpages](https://github.com/academicpages/academicpages.github.io). (2022.08.05-now)
@@ -39,7 +39,7 @@ i@yfluo.me powered by [iCloud](https://www.icloud.com/mail/). (2022.08.05-now)
 [FlyingFish's Bot](https://t.me/yfluo_bot) powered by [LivegramBot](https://t.me/LivegramBot). (2022.06.21-now)
 
 ## ChatGPT Bot
-[ChatGPTBot](https://t.me/yfluo_chat_bot) powered by [ChatGPT](https://chat.openai.com/chat). (2022.12.07-2022.12.31)
+[ChatGPTBot](https://t.me/yfluo_chat_bot) powered by [ChatGPT](https://chat.openai.com/chat) and [Cloudflare Workers](https://workers.cloudflare.com). (2022.12.07-now)
 
 ## Z-Library Bot
 [Z-LibraryBot](https://t.me/yfluo_zlib_bot) powered by [Z-Library](https://singlelogin.me). (2023.01.28-now)
