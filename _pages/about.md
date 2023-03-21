@@ -26,16 +26,22 @@ i@yfluo.me powered by [iCloud](https://www.icloud.com/mail/). (2022.08.05-now)
 [https://yfluo.me](https://yfluo.me) powered by [GitHub Pages](https://pages.github.com) and [Academicpages](https://github.com/academicpages/academicpages.github.io). (2022.08.05-now)
 
 ## My Cloud
-[https://cloud.yfluo.me](https://cloud.yfluo.me) powered by [Alist](https://github.com/alist-org/alist) and [Aria2](https://github.com/aria2/aria2). (2023.01.31-now)
+[https://cloud.yfluo.me](https://cloud.yfluo.me) powered by [Alist](https://github.com/alist-org/alist). (2023.01.31-now)
+
+## My Chat
+[https://chat.yfluo.me](https://chat.yfluo.me) powered by [ChatGPT-Web](https://github.com/Chanzhaoyu/chatgpt-web). (2023.03.14-now)
+
+## My Server Status
+[https://status.yfluo.me](https://status.yfluo.me) powered by [Nezha Monitoring](https://github.com/naiba/nezha). (2023.03.22-now)
 
 ## My Proxy
 [My Proxy](https://sub.yfluo.tk) (clash subscription link) powered by [Trojan](https://github.com/trojan-gfw/trojan). (2022.11.24-now)
 
-## My Rule
+## Clash Rule
 [ClashRule](https://github.com/yfluo914/ClashRule) for [Clash Core](https://github.com/Dreamacro/clash) . (2023.01.22-now)
 
 # My Bot
-## Chat Bot
+## Message Bot
 [FlyingFish's Bot](https://t.me/yfluo_bot) powered by [LivegramBot](https://t.me/LivegramBot). (2022.06.21-now)
 
 ## ChatGPT Bot
