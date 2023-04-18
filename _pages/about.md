@@ -11,7 +11,7 @@ redirect_from:
 Hello, world! This is Yfluo's Homepage.
 
 # Contact me
-Contact me at email i@yfluo.me.
+Contact me at email yfluo914@gmail.com.
 
 # My Email
 i@yfluo.fish powered by [Mailru](https://biz.mail.ru/). (2022.04.22-2022.08.05)
@@ -20,7 +20,7 @@ i@yfluo.me powered by [iCloud](https://www.icloud.com/mail/). (2022.08.05-2023.0
 
 i@yfluo.me powered by [Mcrosoft 365 E5](https://www.microsoft.com/microsoft-365/enterprise/e5). (2023.03.25-now)
 
-# My Porject
+# My Project
 ## My Blog
 [https://yfluo.fish](https://yfluo.fish) powered by [WordPress](https://github.com/WordPress/WordPress). (2022.04.22-2022.08.05)
 
@@ -35,9 +35,6 @@ i@yfluo.me powered by [Mcrosoft 365 E5](https://www.microsoft.com/microsoft-365/
 
 ## My Server Status
 [https://status.yfluo.me](https://status.yfluo.me) powered by [Nezha Monitoring](https://github.com/naiba/nezha). (2023.03.22-now)
-
-## My Proxy
-[My Proxy](https://sub.yfluo.tk) (clash subscription link) powered by [Trojan](https://github.com/trojan-gfw/trojan). (2022.11.24-now)
 
 ## Clash Rule
 [ClashRule](https://github.com/yfluo914/ClashRule) for [Clash Core](https://github.com/Dreamacro/clash) . (2023.01.22-now)
