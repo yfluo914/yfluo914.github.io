@@ -1,3 +1,3 @@
 # Yfluo's Homepage
 
-Yfluo's homepage, use GitHub pages and academicpages.
+Yfluo's homepage, using GitHub pages and academicpages.
