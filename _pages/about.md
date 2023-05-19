@@ -31,7 +31,9 @@ i@yfluo.me powered by [Mcrosoft 365 E5](https://www.microsoft.com/microsoft-365/
 [https://cloud.yfluo.me](https://cloud.yfluo.me) powered by [Alist](https://github.com/alist-org/alist). (2023.01.31-now)
 
 ## My Chat
-[https://chat.yfluo.me](https://chat.yfluo.me) powered by [ChatGPT-Web](https://github.com/Chanzhaoyu/chatgpt-web). (2023.03.14-now)
+[https://chat.yfluo.me](https://chat.yfluo.me) powered by [ChatGPT-Web](https://github.com/Chanzhaoyu/chatgpt-web). (2023.03.14-2023.04.21)
+
+[https://nimo.chat](https://nimo.chat) powered by [ChatGPT-Web](https://github.com/Chanzhaoyu/chatgpt-web) and [Go-ChatGPT-API](https://github.com/linweiyuan/go-chatgpt-api). (2023.04.21-now)
 
 ## My Server Status
 [https://status.yfluo.me](https://status.yfluo.me) powered by [Nezha Monitoring](https://github.com/naiba/nezha). (2023.03.22-now)
@@ -51,6 +53,3 @@ i@yfluo.me powered by [Mcrosoft 365 E5](https://www.microsoft.com/microsoft-365/
 
 ## FullTclash Bot
 [FullTclashBot](https://t.me/yfluo_clash_bot) powered by [FullTclash](https://github.com/AirportR/FullTclash). (2023.02.08-now)
-
-## PagerMaid Pyro Bot
-[ChubbyShark](https://t.me/chubbysharkbot) powered by [PagerMaid Pyro](https://github.com/TeamPGM/PagerMaid-Pyro). (2022.12.10-now)
