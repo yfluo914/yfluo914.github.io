@@ -42,10 +42,3 @@ i@yfluo.me powered by [MXroute](https://mxroute.com). (2023.07.04-now)
 
 ## Clash Rule
 [ClashRule](https://github.com/yfluo914/ClashRule) for [Clash Core](https://github.com/Dreamacro/clash) . (2023.01.22-now)
-
-# My Bot
-## Message Bot
-[FlyingFish's Bot](https://t.me/yfluo_bot) powered by [LivegramBot](https://t.me/LivegramBot). (2022.06.21-now)
-
-## ChatGPT Bot
-[ChatGPTBot](https://t.me/yfluo_chat_bot) powered by [ChatGPT](https://chat.openai.com/chat) and [Cloudflare Workers](https://workers.cloudflare.com). (2022.12.07-now)
