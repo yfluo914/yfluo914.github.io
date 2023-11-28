@@ -5,6 +5,8 @@ excerpt: "My Server"
 author_profile: true
 ---
 
+Update: 2023 BlackFriday
+
 |商家|地区|价格|
 |:--:|:--:|:--:|
 |RackNerd|🇺🇸 美国洛杉矶DC02|年付19.99美元|
