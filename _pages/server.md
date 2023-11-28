@@ -5,7 +5,7 @@ excerpt: "My Server"
 author_profile: true
 ---
 
-[Server Status](https://status.yfluo.me)
+**[Server Status](https://status.yfluo.me)**
 
 |商家|地区|价格|
 |:--:|:--:|:--:|
