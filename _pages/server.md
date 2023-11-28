@@ -5,7 +5,7 @@ excerpt: "My Server"
 author_profile: true
 ---
 
-Update: 2023 BlackFriday
+[Server Status](https://status.yfluo.me)
 
 |商家|地区|价格|
 |:--:|:--:|:--:|
@@ -23,3 +23,5 @@ Update: 2023 BlackFriday
 |Azure|🇭🇰 中国香港|--|
 |BestVM|🇨🇳 中国台湾|年付105元|
 |鸡仔云|🇨🇳 中国重庆|月付5元|
+
+Update: 2023 BlackFriday
