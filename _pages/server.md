@@ -3,8 +3,6 @@ permalink: /server/
 title: "My Server"
 excerpt: "My Server"
 author_profile: true
-redirect_from: 
-  - /server/
 ---
 
 My Server
