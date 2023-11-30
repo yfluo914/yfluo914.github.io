@@ -1,7 +1,7 @@
 export default {
   nav: {
     id: "nav",
-    Title: "IP 工具箱",
+    Title: "Yfluo 的 IP 工具",
     IPinfo: "IP 信息",
     Connectivity: "网络连通性",
     WebRTC: "WebRTC 测试",
@@ -10,8 +10,6 @@ export default {
   ipInfos: {
     id: "ipinfos",
     Title: "IP 信息",
-    Notes:
-      "将会从 6 个来源检查 IP 数据，如果当前 IP 栈只有 1 个，则没有数据的来源会显示为空。",
     Simple: "简约",
     Map: "地图",
     MapUnavailable: "地图不可用",
@@ -28,7 +26,6 @@ export default {
   connectivity: {
     id: "connectivity",
     Title: "网络连通性",
-    Note: "通过加载对应网站上的小图片进行测试，延迟值仅供参考，实际会更小。",
     StatusWait: "待检测",
     StatusAvailable: "可用",
     StatusUnavailable: "不可用",
@@ -38,7 +35,6 @@ export default {
   webrtc: {
     id: "webrtc",
     Title: "WebRTC 测试",
-    Note: "WebRTC 往往通过 UDP 直连进行建立，如果测试返回了真实 IP，则意味着你的代理设置没有覆盖这些连接。",
     StatusWait: "待检测或连接错误",
     StatusError: "测试出错",
   },
@@ -46,9 +42,6 @@ export default {
     id: "dnsleaktest",
     Name: "测试",
     Title: "DNS 泄漏测试",
-    Note: "DNS 泄露（DNS Leaks）的意思是，当你挂上 VPN/代理后，你解析域名时，依然通过当地的运营商进行解析，这时就有 DNS泄露的风险。",
-    Note2:
-      "泄露测试的方法是通过访问新生成的域名，检测你是通过哪个地区的改你的 VPN/代理设置。",
     Endpoint: "DNS 出口",
     EndpointCountry: "出口地区",
     StatusWait: "待检测",
@@ -57,7 +50,7 @@ export default {
   ipcheck: {
     id: "ipcheck",
     Title: "IP 查询",
-    Placeholder: "请输入有 IP 地址",
+    Placeholder: "请输入 IP 地址",
     Button: "查询",
     Error: "请输入有效的 IPv4 或 IPv6 地址。",
   },

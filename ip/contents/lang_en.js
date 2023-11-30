@@ -1,7 +1,7 @@
 export default {
   nav: {
     id: "nav",
-    Title: "IP Toolbox",
+    Title: "Yfluo's IP Tool",
     IPinfo: "IP Infos",
     Connectivity: "Connectivity",
     WebRTC: "WebRTC Test",
@@ -10,8 +10,6 @@ export default {
   ipInfos: {
     id: "ipinfos",
     Title: "IP Infos",
-    Notes:
-      "IP data will be checked from 6 sources. If there is only 1 IP stack currently, sources without data will show as empty.",
     Simple: "Simple",
     Map: "Map",
     MapUnavailable: "Map Unavailable",
@@ -28,7 +26,6 @@ export default {
   connectivity: {
     id: "connectivity",
     Title: "Network Connectivity",
-    Note: "Testing is done by loading small images from corresponding websites. Delay values are for reference only and will be smaller in reality.",
     StatusWait: "Awaiting Test",
     StatusAvailable: "OK",
     StatusUnavailable: "Unavailable",
@@ -38,7 +35,6 @@ export default {
   webrtc: {
     id: "webrtc",
     Title: "WebRTC Test",
-    Note: "WebRTC often establishes connections directly via UDP. If the test returns your real IP, it means your proxy settings do not cover these connections.",
     StatusWait: "Awaiting Test or Connection Error",
     StatusError: "Test Error",
   },
@@ -46,9 +42,6 @@ export default {
     id: "dnsleaktest",
     Name: "Test",
     Title: "DNS Leak Test",
-    Note: "A DNS leak means that when you are connected to a VPN/proxy, your domain name resolutions are still done through your local ISP, thus posing a risk of DNS leaks.",
-    Note2:
-      "The leak test method involves accessing a newly generated domain name to detect which region's DNS is being used as per your VPN/proxy settings.",
     Endpoint: "DNS Endpoint",
     EndpointCountry: "Endpoint Region",
     StatusWait: "Awaiting Test",
