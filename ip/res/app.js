@@ -23,7 +23,7 @@ new Vue({
     isMapShown: true,
     isDarkMode: false,
     isMobile: false,
-    isCardsCollapsed: true,
+    isCardsCollapsed: false,
 
     // from contents
     connectivityTests,
@@ -543,7 +543,6 @@ new Vue({
       this.isMapShown = localStorage.getItem("isMapShown") === "true";
     }
     this.isMobile = window.innerWidth < 768;
-    this.isCardsCollapsed = this.isMobile;
     // this.handleResize();
     window.addEventListener("resize", this.handleResize);
   },
