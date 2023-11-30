@@ -64,12 +64,12 @@ export default {
   alert: {
     id: "alert",
     OhNo: "糟糕！",
-    Congrats: "恭喜呀！",
-    OhNo_Message: "你当前似乎没有翻墙，部分内容无法显示。",
-    Congrats_Message: "你当前已经翻墙，欢迎来到新世界。",
+    Congrats: "恭喜！",
+    OhNo_Message: "你未连接代理。",
+    Congrats_Message: "你当前成功连接代理。",
   },
   page: {
     title:
-      "查看我的 IP 地址 | 查询本机 IP 地址及归属地 | 查看 WebRTC 连接 IP ｜ DNS 泄露检测 | Jason Ng 阿禅开源作品",
+      "查看我的 IP 地址 | 查询本机 IP 地址及归属地 | 查看 WebRTC 连接 IP ｜ DNS 泄露检测",
   },
 };

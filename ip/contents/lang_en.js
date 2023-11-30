@@ -66,9 +66,9 @@ export default {
     OhNo: "Oh No!",
     Congrats: "Congrats!",
     OhNo_Message:
-      "You seem to be not connected to a VPN/proxy, some content may not be displayed.",
+      "You are not connected to a proxy.",
     Congrats_Message:
-      "You are now connected to a VPN/proxy, welcome to the new world.",
+      "You are now connected to a proxy.",
   },
   page: {
     title:

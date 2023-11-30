@@ -23,7 +23,7 @@ new Vue({
     isMapShown: true,
     isDarkMode: false,
     isMobile: false,
-    isCardsCollapsed: false,
+    isCardsCollapsed: true,
 
     // from contents
     connectivityTests,
