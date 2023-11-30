@@ -26,4 +26,4 @@ author_profile: true
 |BestVM|🇨🇳 中国台湾|年付105元|
 |鸡仔云|🇨🇳 中国重庆|月付5元|
 
-Update: 2023 BlackFriday
+Update: 2023 Black Friday & Cyber Monday
