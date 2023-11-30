@@ -1,9 +1,9 @@
-import textCN from "../contents/lang_cn.js";
-import textEN from "../contents/lang_en.js";
-import connectivityTests from "../contents/connectivityTests.js";
-import stunServers from "../contents/stunServers.js";
-import ipDataCards from "../contents/ipDataCards.js";
-import leakTest from "../contents/leakTest.js";
+import textCN from "/yfluo914.github.io/contents/lang_cn.js";
+import textEN from "/yfluo914.github.io/contents/lang_en.js";
+import connectivityTests from "/yfluo914.github.io/contents/connectivityTests.js";
+import stunServers from "/yfluo914.github.io/contents/stunServers.js";
+import ipDataCards from "/yfluo914.github.io/contents/ipDataCards.js";
+import leakTest from "/yfluo914.github.io/contents/leakTest.js";
 
 new Vue({
   el: "#app",
@@ -204,7 +204,7 @@ new Vue({
       card.longitude = "";
       card.asn = "";
       card.isp = "";
-      card.mapUrl = "res/defaultMap.jpg";
+      card.mapUrl = "/yfluo914.github.io/res/defaultMap.jpg";
     },
 
     toggleMaps() {
