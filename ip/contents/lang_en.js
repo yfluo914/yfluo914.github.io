@@ -1,7 +1,7 @@
 export default {
   nav: {
     id: "nav",
-    Title: "Yfluo's IP Tool",
+    Title: "Yfluo's IP",
     IPinfo: "IP Infos",
     Connectivity: "Connectivity",
     WebRTC: "WebRTC Test",
