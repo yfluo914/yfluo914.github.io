@@ -9,7 +9,7 @@ new Vue({
   el: "#app",
   data: {
     // Enter your Bing Maps API key here
-    bingMapAPIKEY: "",
+    bingMapAPIKEY: "AutrDd0oscd21NRzeCGEvXaJIrDAHgFA7xgoPInu0EX0XEEPyM2aA8z4O_bsKqkh",
     currentLanguage: "en",
     currentTexts: {},
 
@@ -490,15 +490,6 @@ new Vue({
         document.body.classList.remove("dark-mode");
       }
     },
-    checkSystemDarkMode() {
-      if (
-        window.matchMedia &&
-        window.matchMedia("(prefers-color-scheme: dark)").matches
-      ) {
-        this.isDarkMode = true;
-        this.updateBodyClass();
-      }
-    },
     handleResize() {
       this.isMobile = window.innerWidth < 768; // 设置断点为 768px
     },
@@ -566,7 +557,6 @@ new Vue({
   },
   mounted() {
     this.updatePageTitle(this.currentLanguage);
-    this.checkSystemDarkMode();
     this.checkAllIPs();
     setTimeout(() => {
       this.checkAllConnectivity();
