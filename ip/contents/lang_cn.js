@@ -63,6 +63,6 @@ export default {
   },
   page: {
     title:
-      "查看我的 IP 地址 | 查询本机 IP 地址及归属地 | 查看 WebRTC 连接 IP ｜ DNS 泄露检测",
+      "Yfluo 的 IP",
   },
 };

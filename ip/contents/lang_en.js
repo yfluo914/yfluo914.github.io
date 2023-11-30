@@ -65,6 +65,6 @@ export default {
   },
   page: {
     title:
-      "Check My IP Address | Check My IP Address and Geolocation | Check WebRTC Connection IP | DNS Leak Test | Jason Ng Open Source",
+      "Yfluo's IP",
   },
 };
