@@ -13,6 +13,8 @@ author_profile: true
 |WIKIHOST|🇺🇸 美国洛杉矶CERA4837|年付200元|
 |SpartanHost|🇺🇸 美国西雅图4837|年付20美元|
 |Megalayer|🇺🇸 美国圣何塞CN2GIA|月付9.9元|
+|LetBox|🇺🇸 美国纽约|月付3.33刀|
+|WIKIHOST|🇯🇵 日本东京|年付248元|
 |BestVM|🇯🇵 日本东京|年付168元|
 |Azure|🇯🇵 日本东京|--|
 |WIKIHOST|🇯🇵 日本东京|月付7元|
