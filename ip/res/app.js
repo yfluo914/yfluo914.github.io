@@ -20,7 +20,7 @@ new Vue({
     inputIP: "",
     modalQueryResult: null,
     modalQueryError: "",
-    isMapShown: false,
+    isMapShown: true,
     isDarkMode: false,
     isMobile: false,
     isCardsCollapsed: false,
