@@ -4,7 +4,7 @@ Vue.component('data-center', {
             loading: true,
             coloInfo: null,
             errorMessage: '',
-            darkMode: true,
+            darkMode: false,
             ipAddress: null,
             warpStatus: null,
             tlsProtocol: null,
@@ -117,15 +117,6 @@ Vue.component('data-center', {
                     </iframe>
                 </div>
             </div>
-
-            <!-- 版权声明部分,本项目遵循GPLv3开源协议,未经允许禁止修改版权信息 -->
-            <div class="footer mt-5" style="color: gray; font-size: 0.8rem; display: flex; justify-content: center; align-items: center; gap: 15px;">
-                <!-- COPYRIGHT NOTICE -->
-                <p>Follows the <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-code"></i> GNU General Public License v3.0</a></p>
-                <p><a href="https://github.com/WizisCool/Cloudflare-Center-Detector" target="_blank" style="color: inherit; text-decoration: none;"><i class="fab fa-github"></i> Cloudflare Center Detector</a></p>
-                <p><a href="https://dooo.ng" target="_blank" style="color: inherit; text-decoration: none;"><i class="fas fa-blog"></i> Dooo.ng</a></p>
-            </div>
-            <!-- End of Copyright Notice -->
         </div>
     `
 });
