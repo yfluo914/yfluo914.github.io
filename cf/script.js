@@ -35,7 +35,7 @@ Vue.component('data-center', {
                             if (colosData[value]) {
                                 this.coloInfo = colosData[value];
                             } else {
-                                this.errorMessage = 'No matching Cloudflare data centre information found';
+                                this.errorMessage = 'No matching Cloudflare data center information found';
                             }
                             break;
                         case 'ip':
@@ -83,7 +83,7 @@ Vue.component('data-center', {
             <div class="mb-4 d-flex justify-content-between align-items-center">
                 <div>
                     <img src="./favicon.ico" alt="Cloudflare Logo" style="height: 50px;">
-                    <span style="font-size: 1.5rem; vertical-align: middle; margin-left: 10px;">Yfluo DataCenter</span>
+                    <span style="font-size: 1.5rem; vertical-align: middle; margin-left: 10px;">Yfluo DC</span>
                 </div>
                 <i :class="['fas', darkMode ? 'fa-sun' : 'fa-moon', 'fa-2x']" @click="toggleDarkMode" style="cursor: pointer;"></i>
             </div>
@@ -94,7 +94,7 @@ Vue.component('data-center', {
                         <span class="sr-only">Loading...</span>
                     </div>
                     <div v-else-if="coloInfo" class="card-text">
-                        <h5 class="mb-2">Data Centre Info:</h5>
+                        <h5 class="mb-2">Data Center Info:</h5>
                         <p><img :src="flagUrl(coloInfo.cca2)" alt="Flag" class="img-fluid mb-2" style="height: 20px;"> {{ coloInfo.region }} - {{ coloInfo.city }} ({{ coloInfo.cca2 }})</p>
                         <p v-if="ipAddress"><strong>IP Address:</strong> {{ ipAddress }}</p>
                         <p v-if="warpStatus"><strong>WARP Status:</strong> {{ warpStatus }}</p>
@@ -107,7 +107,7 @@ Vue.component('data-center', {
             <!-- Google 地图 -->
             <div v-if="coloInfo" class="card mx-auto mt-4" :style="cardStyle" style="max-width: 500px;">
                 <div class="card-body">
-                    <h5 class="card-title mb-3">Data Centre Location</h5>
+                    <h5 class="card-title mb-3">Data Center Location</h5>
                     <iframe
                         width="100%"
                         height="250"
