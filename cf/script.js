@@ -83,7 +83,7 @@ Vue.component('data-center', {
             <div class="mb-4 d-flex justify-content-between align-items-center">
                 <div>
                     <img src="./favicon.ico" alt="Cloudflare Logo" style="height: 50px;">
-                    <span style="font-size: 1.5rem; vertical-align: middle; margin-left: 10px;">Cloudflare Center Detector</span>
+                    <span style="font-size: 1.5rem; vertical-align: middle; margin-left: 10px;">Yfluo DataCenter</span>
                 </div>
                 <i :class="['fas', darkMode ? 'fa-sun' : 'fa-moon', 'fa-2x']" @click="toggleDarkMode" style="cursor: pointer;"></i>
             </div>
