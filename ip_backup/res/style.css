@@ -77,9 +77,8 @@
     z-index: 9999;
     right: 0;
     bottom: 0;
-    margin-bottom: 2pt;
-    margin-right: 40pt;
-    max-width: 80vw;
+    margin-bottom: 40pt;
+    margin-right: 4pt;
 }
 
 footer {

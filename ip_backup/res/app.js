@@ -9,7 +9,7 @@ new Vue({
   el: "#app",
   data: {
     // Enter your Bing Maps API key here
-    bingMapAPIKEY: "",
+    bingMapAPIKEY: "AutrDd0oscd21NRzeCGEvXaJIrDAHgFA7xgoPInu0EX0XEEPyM2aA8z4O_bsKqkh",
     currentLanguage: "en",
     currentTexts: {},
 
@@ -18,26 +18,18 @@ new Vue({
     alertTitle: "",
     alertToShow: false,
     inputIP: "",
-    inputBingMapAPIKEY: "",
-    bingMapAPIKEYError: false,
     modalQueryResult: null,
     modalQueryError: "",
     isMapShown: true,
     isDarkMode: false,
     isMobile: false,
     isCardsCollapsed: false,
-    isInfoMasked: false,
-    isInfosLoaded: false,
 
     // from contents
     connectivityTests,
-    originconnectivityTests: {},
     ipDataCards,
-    originipDataCards: {},
     stunServers,
-    originstunServers: {},
     leakTest,
-    originleakTest: {},
   },
   methods: {
     getIPFromUpai() {
@@ -351,11 +343,6 @@ new Vue({
       this.inputIP = "";
       this.modalQueryResult = null;
       this.modalQueryError = "";
-      if (this.bingMapAPIKEYError) {
-        this.inputBingMapAPIKEY = "";
-      }
-      this.bingMapAPIKEYError = false;
-
     },
     async checkSTUNServer(stun) {
       try {
@@ -544,104 +531,12 @@ new Vue({
         server.ip = this.currentTexts.dnsleaktest.StatusWait;
       });
     },
-    // 信息遮罩
-    toggleInfoMask() {
-      this.isInfoMasked = !this.isInfoMasked;
-      if (this.isInfoMasked) {
-        this.originipDataCards = JSON.parse(JSON.stringify(this.ipDataCards));
-        this.originstunServers = JSON.parse(JSON.stringify(this.stunServers));
-        this.originleakTest = JSON.parse(JSON.stringify(this.leakTest));
-        this.infoMask();
-        this.alertStyle = "text-success";
-        this.alertMessage = this.currentTexts.alert.maskedInfoMessage;
-        this.alertTitle = this.currentTexts.alert.maskedInfoTitle;
-        this.alertToShow = true;
-        this.showToast();
-      } else {
-        this.infoUnmask();
-        this.alertStyle = "text-success";
-        this.alertMessage = this.currentTexts.alert.unmaskedInfoMessage;
-        this.alertTitle = this.currentTexts.alert.unmaskedInfoTitle;
-        this.alertToShow = true;
-        this.showToast();
-      }
-    },
-    infoMask() {
-      this.ipDataCards.forEach((card) => {
-        card.ip = "8.8.8.8";
-        card.country_name = "United States";
-        card.country_code = "US";
-        card.region = "California";
-        card.city = "Mountain View";
-        card.latitude = "37.40599";
-        card.longitude = "-122.078514";
-        card.isp = "Google LLC";
-        card.asn = "AS15169";
-        card.mapUrl = "res/defaultMap.jpg";
-      });
-      this.stunServers.forEach((server) => {
-        server.ip = "100.100.200.100";
-      });
-      this.leakTest.forEach((server) => {
-        server.geo = "United States";
-        server.ip = "12.34.56.78";
-      }
-      );
-    },
-    infoUnmask() {
-      this.ipDataCards = JSON.parse(JSON.stringify(this.originipDataCards));
-      this.stunServers = JSON.parse(JSON.stringify(this.originstunServers));
-      this.leakTest = JSON.parse(JSON.stringify(this.originleakTest));
-    },
-
-    addBingMapKey() {
-
-      if (this.isValidKey(this.inputBingMapAPIKEY)) {
-        this.bingMapAPIKEY = this.inputBingMapAPIKEY;
-        this.ipDataCards.forEach((card) => {
-          if (card.latitude && card.longitude) {
-            card.mapUrl = `https://dev.virtualearth.net/REST/v1/Imagery/Map/Road/${card.latitude},${card.longitude}/5?mapSize=800,640&pp=${card.latitude},${card.longitude};66&key=${this.bingMapAPIKEY}&fmt=jpeg&dpi=Large`;
-          }
-        }
-        );
-        const modalElement = document.getElementById('addBingMapKey');
-        const modalInstance = bootstrap.Modal.getInstance(modalElement);
-        if (modalInstance) {
-          modalInstance.hide();
-        }
-        this.isMapShown = true;
-      } else {
-        this.bingMapAPIKEYError = true;
-      }
-    },
-    removeBingMapKey() {
-      this.bingMapAPIKEY = "";
-      this.inputBingMapAPIKEY = "";
-      localStorage.removeItem("bingMapAPIKEY");
-      const modalElement = document.getElementById('addBingMapKey');
-      const modalInstance = bootstrap.Modal.getInstance(modalElement);
-      if (modalInstance) {
-        modalInstance.hide();
-      }
-      this.isMapShown = false;
-    },
-    isValidKey(key) {
-      const keyPattern = /^[A-Za-z0-9_-]{64}$/;
-      return keyPattern.test(key);
-    },
   },
 
   created() {
     this.checkBrowserLanguage();
     this.updateTexts();
     this.langPatch();
-    if (localStorage.getItem("bingMapAPIKEY") && this.bingMapAPIKEY === "") {
-      this.bingMapAPIKEY = localStorage.getItem("bingMapAPIKEY");
-    }
-
-    if (this.bingMapAPIKEY) {
-      this.inputBingMapAPIKEY = this.bingMapAPIKEY;
-    }
     if (!this.bingMapAPIKEY) {
       this.isMapShown = false;
     } else if (localStorage.getItem("isMapShown")) {
@@ -657,9 +552,6 @@ new Vue({
   watch: {
     isMapShown(newVal) {
       localStorage.setItem("isMapShown", newVal);
-    },
-    bingMapAPIKEY(newVal) {
-      localStorage.setItem("bingMapAPIKEY", newVal);
     },
   },
   mounted() {
@@ -680,12 +572,7 @@ new Vue({
     setTimeout(() => {
       this.checkAllConnectivity();
     }, 6000);
-    setTimeout(() => {
-      this.isInfosLoaded = true;
-    }, 6500);
     const modalElement = document.getElementById("IPCheck");
     modalElement.addEventListener("hidden.bs.modal", this.resetModalData);
-    const bingMapAPIKEYElement = document.getElementById("addBingMapKey");
-    bingMapAPIKEYElement.addEventListener("hidden.bs.modal", this.resetModalData);
   },
 });
