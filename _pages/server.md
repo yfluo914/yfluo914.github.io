@@ -17,7 +17,6 @@ author_profile: true
 |BestVM|🇯🇵 日本东京|年付168元|
 |WIKIHOST|🇯🇵 日本东京|年付248元|
 |Azure|🇯🇵 日本东京|--|
-|WIKIHOST|🇯🇵 日本东京|月付7元|
 |HTHosting|🇩🇪 德国法兰克福|半年付8.4欧元|
 |阿里云|🇭🇰 中国香港|--|
 |NNC|🇭🇰 中国香港|季付67元|
