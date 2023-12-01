@@ -117,21 +117,20 @@ new Vue({
         });
     },
     getIPFromIpify_V6() {
-      fetch('https://api.ip.sb/jsonip')
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error("Network response was not ok");
-        }
-        return response.json();
-      })
-      .then((data) => {
-        const ip = data.ip;
-        this.fetchIPDetails(0, ip); // 使用适当的索引和函数
-      })
-      .catch((error) => {
-        console.error("Error fetching IP from ip.sb:", error);
-        this.ipDataCards[0].ip = this.currentTexts.ipInfos.IPv4Error;
-      });
+      fetch("https://api6.ipify.org?format=json")
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Network response was not ok");
+          }
+          return response.json();
+        })
+        .then((data) => {
+          this.fetchIPDetails(5, data.ip);
+        })
+        .catch((error) => {
+          console.error("Error fetching IPv6 address from ipify:", error);
+          this.ipDataCards[5].ip = this.currentTexts.ipInfos.IPv6Error;
+        });
     },
     async fetchIPDetails(cardIndex, ip) {
       const card = this.ipDataCards[cardIndex];

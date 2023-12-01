@@ -1,7 +1,7 @@
 export default {
   nav: {
     id: "nav",
-    Title: "Yfluo 的 IP",
+    Title: "Yfluo's IP",
     IPinfo: "IP 信息",
     Connectivity: "网络连通性",
     WebRTC: "WebRTC 测试",
