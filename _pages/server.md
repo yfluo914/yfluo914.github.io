@@ -12,11 +12,10 @@ author_profile: true
 |RackNerd|🇺🇸 美国洛杉矶DC02|年付19.99美元|
 |WIKIHOST|🇺🇸 美国洛杉矶CERA4837|年付200元|
 |SpartanHost|🇺🇸 美国西雅图4837|年付20美元|
-|Megalayer|🇺🇸 美国圣何塞CN2GIA|月付9.9元|
-|LetBox|🇺🇸 美国纽约|月付3.33美元|
 |BestVM|🇯🇵 日本东京|年付168元|
 |WIKIHOST|🇯🇵 日本东京|年付248元|
 |Azure|🇯🇵 日本东京|--|
+|WIKIHOST|🇰🇷 韩国首尔|年付200元|
 |HTHosting|🇩🇪 德国法兰克福|半年付8.4欧元|
 |阿里云|🇭🇰 中国香港|--|
 |NNC|🇭🇰 中国香港|季付67元|
