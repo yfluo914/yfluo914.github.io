@@ -7,21 +7,21 @@ author_profile: true
 
 **[Server Status](https://status.yfluo.me)**
 
-|商家|地区|价格|
-|:--:|:--:|:--:|
-|RackNerd|🇺🇸 美国洛杉矶DC02|年付19.99美元|
-|WIKIHOST|🇺🇸 美国洛杉矶CERA4837|年付200元|
-|SpartanHost|🇺🇸 美国西雅图4837|年付20美元|
-|BestVM|🇯🇵 日本东京|年付168元|
-|WIKIHOST|🇯🇵 日本东京|年付248元|
-|Azure|🇯🇵 日本东京|--|
-|WIKIHOST|🇰🇷 韩国首尔|年付200元|
-|HTHosting|🇩🇪 德国法兰克福|半年付8.4欧元|
-|阿里云|🇭🇰 中国香港|--|
-|NNC|🇭🇰 中国香港|季付67元|
-|WIKIHOST|🇭🇰 中国香港|年付249元|
-|Azure|🇭🇰 中国香港|--|
-|BestVM|🇨🇳 中国台湾|年付105元|
-|鸡仔云|🇨🇳 中国重庆|月付5元|
+|商家|地区|价格|备注|
+|:--:|:--:|:--:|:--:|
+|RackNerd|🇺🇸 美国洛杉矶|年付19.99美元|LA DC-02|
+|WIKIHOST|🇺🇸 美国洛杉矶|年付200元|CERA4837|
+|SpartanHost|🇺🇸 美国西雅图|年付20美元|斯巴达4837|
+|LetBox|🇺🇸 美国洛杉矶|月付2美元|256G小盘机|
+|BestVM|🇯🇵 日本东京|年付168元|IIJ BBTEC|
+|WIKIHOST|🇯🇵 日本东京|年付248元|三网直连|
+|Azure|🇯🇵 日本东京|--|Azure学生|
+|WIKIHOST|🇰🇷 韩国首尔|年付200元|三网直连|
+|HTHosting|🇩🇪 德国法兰克福|半年付8.4欧元|性能机|
+|阿里云|🇭🇰 中国香港|--|大学生优惠|
+|NNC|🇭🇰 中国香港|季付67元|国际互连|
+|WIKIHOST|🇭🇰 中国香港|年付249元|移动CMI|
+|Azure|🇭🇰 中国香港|--|Azure学生|
+|鸡仔云|🇨🇳 中国重庆|月付5元|IPv6 Only|
 
 Update: 2023 Black Friday & Cyber Monday
