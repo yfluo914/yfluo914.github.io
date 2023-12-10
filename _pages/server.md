@@ -11,13 +11,13 @@ author_profile: true
 |:--:|:--:|:--:|:--:|
 |RackNerd|🇺🇸 美国洛杉矶|年付19.99美元|LA DC02|
 |WIKIHOST|🇺🇸 美国洛杉矶|年付200元|CERA4837|
-|SpartanHost|🇺🇸 美国西雅图|年付20美元|斯巴达4837|
-|LetBox|🇺🇸 美国洛杉矶|月付2美元|256G小盘机|
+|SpartanHost|🇺🇸 美国西雅图|年付20美元|SEA4837|
+|LetBox|🇺🇸 美国洛杉矶|月付2美元|256G HDD|
 |BestVM|🇯🇵 日本东京|年付168元|IIJ BBTEC|
 |WIKIHOST|🇯🇵 日本东京|年付248元|三网直连|
 |Azure|🇯🇵 日本东京|免费|Azure学生|
 |WIKIHOST|🇰🇷 韩国首尔|年付200元|三网直连|
-|HTHosting|🇩🇪 德国法兰克福|半年付8.4欧元|性能机|
+|HTHosting|🇩🇪 德国法兰克福|半年付8.4欧元|EPYC 7543|
 |阿里云|🇭🇰 中国香港|免费|大学生优惠|
 |NNC|🇭🇰 中国香港|季付67元|国际互联|
 |WIKIHOST|🇭🇰 中国香港|年付249元|移动CMI|
