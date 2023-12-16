@@ -13,14 +13,14 @@ author_profile: true
 |DMIT|🇺🇸 美国洛杉矶|年付36.9美元|洛杉矶CN2GIA|
 |WIKIHOST|🇺🇸 美国洛杉矶|年付200元|洛杉矶CERA4837|
 |SpartanHost|🇺🇸 美国西雅图|年付20美元|西雅图4837|
-|LetBox|🇺🇸 美国洛杉矶|月付2美元|256G 硬盘|
+|LetBox|🇺🇸 美国洛杉矶|月付2美元|256G硬盘|
 |WIKIHOST|🇯🇵 日本东京|年付248元|三网直连|
-|Azure|🇯🇵 日本东京|免费|学生|
+|Azure|🇯🇵 日本东京|免费|学生优惠|
 |WIKIHOST|🇰🇷 韩国首尔|年付200元|三网直连|
 |HTHosting|🇩🇪 德国法兰克福|半年付8.4欧元|EPYC 7543|
-|阿里云|🇭🇰 中国香港|免费|Stud学生ent|
+|阿里云|🇭🇰 中国香港|免费|学生优惠|
 |WIKIHOST|🇭🇰 中国香港|年付249元|移动CMI|
-|Azure|🇭🇰 中国香港|免费|学生|
+|Azure|🇭🇰 中国香港|免费|学生优惠|
 |鸡仔云|🇨🇳 中国重庆|月付5元|IPv6 Only|
 
 Update: 2023 Black Friday & Cyber Monday
