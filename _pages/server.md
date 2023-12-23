@@ -16,6 +16,7 @@ author_profile: true
 |Azure|🇯🇵 日本东京|免费|学生优惠|
 |HTHosting|🇩🇪 德国法兰克福|半年付8.4欧元|EPYC 7543|
 |阿里云|🇭🇰 中国香港|免费|学生优惠|
+|BestVM|🇭🇰 中国香港|月付70元|三网CMI|
 |WIKIHOST|🇭🇰 中国香港|年付249元|移动CMI|
 |Azure|🇭🇰 中国香港|免费|学生优惠|
 |鸡仔云|🇨🇳 中国重庆|月付5元|IPv6 Only|
