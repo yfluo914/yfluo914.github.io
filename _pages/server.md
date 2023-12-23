@@ -14,11 +14,10 @@ author_profile: true
 |LetBox|🇺🇸 美国洛杉矶|月付2美元|256G硬盘|
 |WIKIHOST|🇯🇵 日本东京|年付248元|三网直连|
 |Azure|🇯🇵 日本东京|免费|学生优惠|
-|WIKIHOST|🇰🇷 韩国首尔|年付200元|三网直连|
 |HTHosting|🇩🇪 德国法兰克福|半年付8.4欧元|EPYC 7543|
 |阿里云|🇭🇰 中国香港|免费|学生优惠|
 |WIKIHOST|🇭🇰 中国香港|年付249元|移动CMI|
 |Azure|🇭🇰 中国香港|免费|学生优惠|
 |鸡仔云|🇨🇳 中国重庆|月付5元|IPv6 Only|
 
-Update: 2023 Black Friday & Cyber Monday
+Update: 2023 Christmas
