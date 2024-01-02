@@ -11,7 +11,7 @@ author_profile: true
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |RackNerd|🇺🇸 洛杉矶|2C|3G|55G|4T@1Gbps|年付19.99美元|洛杉矶DC02|
 |DMIT|🇺🇸 洛杉矶|1C|1G|10G|450G@500Mbps|年付36.9美元|三网CN2GIA|
-|CloudSilk|🇺🇸 圣何塞|1C|512M|10G|800G@2560Mbps|年付129.99元|三网4837|
+|CloudSilk|🇺🇸 圣何塞|1C|512M|10G|800G@2.5Gbps|年付129.99元|三网4837|
 |LetBox|🇺🇸 洛杉矶|1C|2G|256G|5T@1Gbps|月付2美元|256G硬盘|
 |WIKIHOST|🇯🇵 东京|1C|1G|20G|300G@1Gbps|年付248元|三网直连|
 |Azure|🇯🇵 东京|1C|1G|64G|15G@10Gbps|免费|Azure100|
