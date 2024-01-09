@@ -18,6 +18,5 @@ author_profile: true
 |物语云|🇭🇰 香港|1C|1G|10G|2T@1Gbps|月付59元|三网CMI|
 |WIKIHOST|🇭🇰 香港|1C|1G|20G|300G@1Gbps|年付249元|移动CMI|
 |Azure|🇭🇰 香港|1C|1G|64G|115G@10Gbps|免费|Azure100|
-|鸡仔云|🇨🇳 重庆|1C|384M|10G|500G@0.3Gbps|月付5元|IPv6 Only|
 
 Update: 2024 New Year
