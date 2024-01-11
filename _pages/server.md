@@ -16,7 +16,6 @@ author_profile: true
 |Azure|🇯🇵 东京|1C|1G|64G|15G@10Gbps|免费|Azure100|
 |阿里云|🇭🇰 香港|2C|1G|40G|1T@30Mbps|免费|4837+CMI|
 |物语云|🇭🇰 香港|1C|1G|10G|2T@1Gbps|月付59元|三网CMI|
-|WIKIHOST|🇭🇰 香港|1C|1G|20G|300G@1Gbps|年付249元|移动CMI|
 |Azure|🇭🇰 香港|1C|1G|64G|115G@10Gbps|免费|Azure100|
 
 Update: 2024 New Year
