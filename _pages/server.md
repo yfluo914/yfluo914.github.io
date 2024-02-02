@@ -15,6 +15,7 @@ author_profile: true
 |BestVM|🇯🇵 东京|1C|512M|5G|1000G@1Gbps|年付168元|IIJ+BBTEC|
 |鸡仔云|🇯🇵 东京|1C|512M|3G|20G@10Mbps|年付120元|沪日IPLC|
 |Azure|🇯🇵 东京|1C|1G|64G|100G@10Gbps|免费|Azure100|
+|BestVM|🇸🇬 新加坡|1C|512M|5G|1000G@1Gbps|年付135元|国际互连|
 |阿里云|🇭🇰 香港|2C|1G|40G|1T@30Mbps|免费|4837+CMI|
 |物语云|🇭🇰 香港|1C|1G|10G|2T@1Gbps|年付594元|三网CMI|
 |BestVM|🇭🇰 香港|1C|512M|5G|1000G@1Gbps|年付130元|国际互连|
