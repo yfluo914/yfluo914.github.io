@@ -12,14 +12,15 @@ author_profile: true
 |RackNerd|🇺🇸 洛杉矶|2C|3G|55G|4T@1Gbps|年付19.99美元|洛杉矶DC02|
 |DMIT|🇺🇸 洛杉矶|1C|1G|10G|450G@500Mbps|年付36.9美元|三网CN2GIA|
 |xTom|🇺🇸 圣何塞|1C|1G|15G|600G@500Mbps|年付19.98欧元|CN2GIA+9929+CMIN2|
-|BestVM|🇯🇵 东京|1C|512M|5G|1000G@1Gbps|年付168元|IIJ+BBTEC|
+|xTom|🇯🇵 东京|1C|1G|15G|600G@500Mbps|年付19.98欧元|三网BBTEC|
 |咕咕云|🇯🇵 东京|1C|1G|20G|300G@50Mbps|年付365元|苏日IPLC|
 |Azure|🇯🇵 东京|1C|1G|64G|100G@10Gbps|免费|Azure100|
+|WIKIHOST|🇰🇷 韩国|1C|512M|20G|200G@100Mbps|月付18元|电信CN2GIA|
 |BestVM|🇸🇬 新加坡|1C|512M|5G|1000G@1Gbps|年付135元|落地Akari|
 |阿里云|🇭🇰 香港|2C|1G|40G|1T@30Mbps|免费|4837+CMI|
 |物语云|🇭🇰 香港|1C|1G|10G|2T@1Gbps|年付594元|三网CMI|
 |BestVM|🇭🇰 香港|1C|512M|5G|1000G@1Gbps|年付130元|落地Akari|
 |咕咕云|🇭🇰 香港|1C|0.5G|20G|520G@99Mbps|年付520元|莞港IPLC|
-|鸡仔云|🇨🇳 重庆|1C|512M|5G|512G@300Mbps|月付4.9元|IPv6|
+|鸡仔云|🇨🇳 重庆|1C|512M|5G|512G@300Mbps|月付4.9元|IPv6+v4NAT|
 
 Update: 2024 New Year
