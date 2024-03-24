@@ -15,7 +15,6 @@ author_profile: true
 |xTom|🇯🇵 东京|1C|1G|15G|600G@500Mbps|年付19.98欧元|三网BBTEC|
 |咕咕云|🇯🇵 东京|1C|1G|20G|300G@50Mbps|年付365元|苏日IPLC|
 |Azure|🇯🇵 东京|1C|1G|64G|100G@10Gbps|免费|Azure100|
-|WIKIHOST|🇰🇷 韩国|1C|512M|20G|200G@100Mbps|月付18元|电信CN2GIA|
 |BestVM|🇸🇬 新加坡|1C|512M|5G|1000G@1Gbps|年付135元|落地Akari|
 |阿里云|🇭🇰 香港|2C|1G|40G|1T@30Mbps|免费|4837+CMI|
 |物语云|🇭🇰 香港|1C|1G|10G|2T@1Gbps|年付594元|三网CMI|
