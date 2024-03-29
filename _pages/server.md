@@ -10,8 +10,8 @@ author_profile: true
 |商家|地区|CPU|内存|硬盘|网络|价格|备注|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |RackNerd|🇺🇸 洛杉矶|2C|3G|55G|4T@1Gbps|年付19.99美元|洛杉矶DC02|
-|DMIT|🇺🇸 洛杉矶|1C|1G|10G|450G@500Mbps|年付36.9美元|三网CN2GIA|
 |xTom|🇺🇸 圣何塞|1C|1G|15G|600G@500Mbps|年付19.98欧元|CN2GIA+9929+CMIN2|
+|Netcup|🇩🇪 纽伦堡|1C|1G|30G|Unlimited@1Gbps|年付10.08欧元|无限流量|
 |xTom|🇯🇵 东京|1C|1G|15G|600G@500Mbps|年付19.98欧元|三网BBTEC|
 |咕咕云|🇯🇵 东京|1C|1G|20G|300G@50Mbps|年付365元|苏日IPLC|
 |Azure|🇯🇵 东京|1C|1G|64G|100G@10Gbps|免费|Azure100|
