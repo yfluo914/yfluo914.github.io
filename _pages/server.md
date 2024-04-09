@@ -15,7 +15,6 @@ author_profile: true
 |xTom|🇯🇵 东京|1C|1G|15G|600G@500Mbps|年付19.98欧元|三网BBTEC|
 |Azure|🇯🇵 东京|1C|1G|64G|100G@10Gbps|免费|Azure100|
 |阿里云|🇭🇰 香港|2C|1G|40G|1T@30Mbps|免费|4837+CMI|
-|物语云|🇭🇰 香港|1C|1G|10G|2T@1Gbps|年付594元|三网CMI|
 |Misaka|🇭🇰 香港|1C|1G|16G|1T@10Gbps|月付10美元|移动CMI|
 |咕咕云|🇭🇰 香港|1C|0.5G|20G|520G@99Mbps|年付520元|莞港IPLC|
 
