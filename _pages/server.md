@@ -17,5 +17,6 @@ author_profile: true
 |阿里云|🇭🇰 香港|2C|1G|40G|1T@30Mbps|免费|4837+CMI|
 |Misaka|🇭🇰 香港|1C|1G|16G|1T@10Gbps|月付10美元|移动CMI|
 |咕咕云|🇭🇰 香港|1C|0.5G|20G|520G@99Mbps|年付520元|莞港IPLC|
+|咕咕云|🇨🇳 上海|1C|0.5G|8G|2T@50Mbps|三年付399元|上海CN2|
 
 Update: 2024 Easter
