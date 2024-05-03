@@ -15,6 +15,8 @@ author_profile: true
 |xTom|🇯🇵 东京|1C|1G|15G|600G@500Mbps|年付19.98欧元|三网BBTEC|
 |阿里云|🇭🇰 香港|2C|1G|40G|1T@30Mbps|免费|4837+CMI|
 |xTom|🇭🇰 香港|1C|1G|15G|400G@500Mbps|年付29.99欧元|移动CMI|
+|BestVM|🇭🇰 香港|1C|0.5G|5G|1000G@1000Mbps|年付171.5元|移动CMI|
+|BestVM|🇭🇰 香港|1C|0.5G|5G|1000G@1000Mbps|年付130元|落地Akari|
 |咕咕云|🇭🇰 香港|1C|0.5G|20G|520G@99Mbps|年付520元|莞港IPLC|
 |咕咕云|🇨🇳 广州|1C|1G|10G|500G@200Mbps|三年付199元|广州移动IPv6|
 
