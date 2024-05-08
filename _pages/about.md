@@ -11,7 +11,7 @@ redirect_from:
 Hello, world! This is Yfluo's Homepage.
 
 ## Contact me
-Contact me by email i at yfluo dot me / yfluoyf at gmail dot com.
+Email: yfluoyf@gmail.com
 
 ## My Homepage
 [https://yfluo.me](https://yfluo.me) powered by [GitHub Pages](https://pages.github.com) and [Academicpages](https://github.com/academicpages/academicpages.github.io).
