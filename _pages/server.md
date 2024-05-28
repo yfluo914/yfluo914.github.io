@@ -18,7 +18,6 @@ author_profile: true
 |Netfront|🇭🇰 香港|1C|1G|16G|1000G@300Mbps|季付100港币|原生IP|
 |咕咕云|🇭🇰 香港|1C|2G|15G|2000G@100Mbps|月付50元|花卷CMI|
 |咕咕云|🇭🇰 香港|1C|0.5G|20G|520G@99Mbps|年付520元|莞港IPLC|
-|物语云|🇨🇳 宁波|2C|2G|30G|1536G@300Mbps|月付78元|宁波移动IPv4|
 |咕咕云|🇨🇳 广州|1C|1G|10G|500G@200Mbps|三年付199元|广州移动IPv6|
 
 Update: 2024 Easter
