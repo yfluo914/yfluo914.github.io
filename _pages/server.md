@@ -14,8 +14,9 @@ author_profile: true
 |Netcup|🇩🇪 纽伦堡|1C|1G|30G|Unlimited@1Gbps|年付10.08欧元|无限流量|
 |xTom|🇯🇵 东京|1C|1G|15G|600G@500Mbps|年付19.98欧元|三网BBTEC|
 |阿里云|🇭🇰 香港|2C|1G|40G|1T@30Mbps|免费|4837+CMI|
-|xTom|🇭🇰 香港|1C|1G|15G|400G@500Mbps|年付29.99欧元|移动CMI|
-|Netfront|🇭🇰 香港|1C|1G|16G|1000G@300Mbps|季付100港币|原生IP|
+|DMIT|🇭🇰 香港|1C|2G|60G|500G@300Mbps|年付298.88欧元|三网CN2GIA|
+|xTom|🇭🇰 香港|1C|1G|15G|400G@500Mbps|年付29.99欧元|三网CMI|
+|Netfront|🇭🇰 香港|1C|1G|16G|1000G@300Mbps|季付100港币|运营商原生IP|
 |咕咕云|🇭🇰 香港|1C|2G|15G|2000G@100Mbps|月付50元|花卷CMI|
 |咕咕云|🇭🇰 香港|1C|0.5G|20G|520G@99Mbps|年付520元|莞港IPLC|
 |咕咕云|🇨🇳 广州|1C|1G|10G|500G@200Mbps|三年付199元|广州移动IPv6|
