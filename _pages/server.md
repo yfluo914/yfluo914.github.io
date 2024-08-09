@@ -17,7 +17,7 @@ author_profile: true
 |阿里云|🇭🇰 香港|2C|1G|40G|1T@30Mbps|免费|4837+CMI|
 |DMIT|🇭🇰 香港|1C|1G|20G|200G@150Mbps|年付149.9美元|三网CN2GIA|
 |DMIT|🇭🇰 香港|1C|768M|10G|2T@1Gbps|年付76.9美元|移动CMI|
+|咕咕云|🇭🇰 香港|1C|1G|10G|811G@208Mbps|三年付1520元|莞港IPLC|
 |咕咕云|🇭🇰 香港|1C|0.5G|20G|520G@99Mbps|年付520元|莞港IPLC|
-|物语云|🇨🇳 宁波|2C|2G|30G|1024G@300Mbps|月付78元|宁波移动|
 
 Update: 2024 Summer
