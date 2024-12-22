@@ -17,10 +17,10 @@ Email: yfluoyf@gmail.com
 [https://yfluo.me](https://yfluo.me) powered by [GitHub Pages](https://pages.github.com) and [Academicpages](https://github.com/academicpages/academicpages.github.io).
 
 ## My Cloud
-[https://cloud.yfluo.me](https://cloud.yfluo.me) powered by [Alist](https://alist.nn.ci).
+[https://cloud.it0.cc](https://cloud.it0.cc) powered by [Alist](https://alist.nn.ci).
 
 ## My Server Status
-[https://status.yfluo.me](https://status.yfluo.me) powered by [Nezha Monitoring](https://nezha.wiki).
+[https://status.it0.cc](https://status.it0.cc) powered by [Nezha Monitoring](https://nezha.wiki).
 
 ## My Chat
 [https://hinimo.net](https://g3.hinimo.net) powered by [ChatGPT-Web](https://github.com/Chanzhaoyu/chatgpt-web).

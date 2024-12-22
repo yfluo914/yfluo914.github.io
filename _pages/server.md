@@ -5,7 +5,7 @@ excerpt: "My Server"
 author_profile: true
 ---
 
-**[Server Status](https://status.yfluo.me)**
+**[Server Status](https://status.it0.cc)**
 
 |商家|地区|CPU|内存|硬盘|网络|价格|备注|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
