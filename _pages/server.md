@@ -13,7 +13,7 @@ author_profile: true
 |RFCHost|🇯🇵 东京|1C|1G|15G|2T@10Gbps|年付29.9美元|花卷东京|
 |咕咕云|🇯🇵 东京|1C|380M|9G|79G@99Mbps|年付99元|沪日IPLC|
 |Azure|🇯🇵 东京|1C|1G|64G|100G@10Gbps|免费|Student|
-|SpeedyPage|🇸🇬 新加坡|1C|1G|15G|2T@1Gbps|年付38.61美元|移动CMI|
+|RFCHost|🇸🇬 新加坡|1C|0.5G|10G|500G@10Gbps|年付19.9美元|移动CMI|
 |阿里云|🇭🇰 香港|2C|1G|40G|1T@30Mbps|免费|4837+CMI|
 |Clawcloud|🇭🇰 香港|2C|2G|40G|1T@1Gbps|月付4美元|4837+CMI|
 |DMIT|🇭🇰 香港|1C|1G|20G|200G@300Mbps|年付149.9美元|三网CN2GIA|
