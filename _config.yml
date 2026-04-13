@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yfluo's Homepage"
 title_separator          : "-"
-name                     : &name "Yufei Luo"
+name                     : &name "Yfluo"
 description              : &description "Powered by yfluo."
 url                      : https://yfluo.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yufei Luo"
+  name             : "Yfluo"
   avatar           : "https://raw.githubusercontent.com/yfluo914/yfluo914.github.io/master/images/favicon.jpg"
   bio              : "SJTU AU"
   location         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "flyingfishyf"
+  twitter          : "yfluoo"
   vine             :
   weibo            :
   xing             :

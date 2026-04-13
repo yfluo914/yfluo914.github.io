@@ -19,8 +19,5 @@ Email: yfluoyf@gmail.com
 ## My Cloud
 [https://cloud.it0.cc](https://cloud.it0.cc) powered by [Alist](https://alist.nn.ci).
 
-## My Server Status
+## My Server
 [https://status.it0.cc](https://status.it0.cc) powered by [Nezha Monitoring](https://nezha.wiki).
-
-## My Chat
-[https://hinimo.net](https://g3.hinimo.net) powered by [ChatGPT-Web](https://github.com/Chanzhaoyu/chatgpt-web).
